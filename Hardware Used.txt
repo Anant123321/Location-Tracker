@@ -1,0 +1,4 @@
+Arduino Mega
+Sim808(GSM/GPS Module)
+Jumper Wires(3,male to female)
+Power Source(Adapter 12v-2amp)
